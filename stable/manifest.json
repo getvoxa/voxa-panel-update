@@ -1,10 +1,10 @@
 {
   "product": "voxa-panel",
-  "version": "0.2.5",
-  "url": "voxa_panel-0.2.5.enc",
-  "size": 6623232,
-  "sha256": "454f86395655b8df056172b760e97d27d7b89992af6cc1f1ad1d398e02b086d9",
-  "iv": "15f2b8181df367a454662729e3013603",
-  "sig": "MEUCIQD2402K3niKHeafPhwzjB8bhxN53h81QMwkPj8ammD9owIgGRvcFVB/+UXtoJq0vKRtGzX2FZ9q221wTGi/bkeZysA=",
-  "notes": "Update test after the lock"
+  "version": "0.2.6",
+  "url": "voxa_panel-0.2.6.enc",
+  "size": 6557696,
+  "sha256": "c4cdefaf4cf9a00d157ec8299eee65d34de220d7a416a56e75d5a9e65a8b7a70",
+  "iv": "4766ab6babe03b3ca5c56696e6f7f35d",
+  "sig": "MEUCIAy2dsWur0o+MPslc5+LNQAC9TDy4xuNZCvQZAKq8KM0AiEArVUO2VGo5E//x+ukc2wWC6zmF/aAHyqBaLtFhbM5Xes=",
+  "notes": "Fixes a start-up problem"
 }

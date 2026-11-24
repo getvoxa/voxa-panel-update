@@ -1,10 +1,10 @@
 {
   "product": "voxa-panel",
-  "version": "0.2.4",
-  "url": "voxa_panel-0.2.4.enc",
-  "size": 6571216,
-  "sha256": "585d8cf182c396ddd4672f18122852c169132feff9d0a0bdf226acd036e5ee30",
-  "iv": "be2a1e560fef63de40d519ef10c9540c",
-  "sig": "MEQCICvIEpzZc8yC7iNPN8LnsnW7RJ25tZoczpNn64eieocfAiBezw49Ud+Tu3ieA8LQongwQTXYMFdX5+K9fi5eL2UhXQ==",
-  "notes": "First online update"
+  "version": "0.2.5",
+  "url": "voxa_panel-0.2.5.enc",
+  "size": 6623232,
+  "sha256": "454f86395655b8df056172b760e97d27d7b89992af6cc1f1ad1d398e02b086d9",
+  "iv": "15f2b8181df367a454662729e3013603",
+  "sig": "MEUCIQD2402K3niKHeafPhwzjB8bhxN53h81QMwkPj8ammD9owIgGRvcFVB/+UXtoJq0vKRtGzX2FZ9q221wTGi/bkeZysA=",
+  "notes": "Update test after the lock"
 }
